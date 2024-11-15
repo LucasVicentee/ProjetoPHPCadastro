@@ -19,5 +19,12 @@
             </ul>
         </nav>
     </header>
+
+
+    <footer>
+        <section class="criador">
+            <p>Cirado por Lucas Henrique Vicente dos Santos</p>
+        </section>
+    </footer>
 </body>
 </html>
